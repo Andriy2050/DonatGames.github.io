@@ -1,0 +1,15 @@
+body {
+	background-image: url(../img/eiffel-tower-1.jpg);
+	background-size: 100%
+}
+h1 {
+	text-align: center;
+}
+p {
+	font-size: 20px;
+	margin: 0 auto;
+	width: 80%;
+}
+body {
+	color: #fff
+}
